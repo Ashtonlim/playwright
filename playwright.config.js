@@ -29,6 +29,7 @@ const config = {
     /* Base URL to use in actions like `await page.goto('/')`. */
     baseURL: 'http://localhost:3000',
     trace: 'on',
+    video: 'on',
   },
 
   /* Configure projects for major browsers */

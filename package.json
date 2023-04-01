@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx playwright test ./tests-examples/demo-todo-app.spec.js"
+    "start": "npx playwright test ./tests-examples/demo-todo-app.spec.js",
+    "rec": "npx playwright codegen"
   },
   "keywords": [],
   "author": "",
